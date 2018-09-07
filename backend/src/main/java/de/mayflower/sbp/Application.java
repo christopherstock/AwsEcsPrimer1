@@ -1,5 +1,5 @@
 
-    package de.christopherstock.sbp;
+    package de.mayflower.sbp;
 
     import  java.util.Arrays;
     import  org.springframework.boot.*;
